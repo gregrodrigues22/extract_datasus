@@ -1,9 +1,9 @@
 # 📥 Extract Datasus - Aquisição e Processamento de Dados CNES
 
-Este repositório contém um conjunto de scripts para **baixar, converter e compilar dados do CNES (Cadastro Nacional de Estabelecimentos de Saúde) a partir do FTP do DATASUS**.
+Este repositório contém um conjunto de scripts para **baixar, converter e compilar dados do DataSUS a partir do FTP do DATASUS**.
 
 ## 🚀 Visão Geral
-Os dados do CNES são disponibilizados em arquivos no formato `.dbc`, que precisam ser processados antes de serem utilizados para análise. Este projeto automatiza esse processo em três etapas:
+Os dados do DataSUS são disponibilizados em arquivos no formato `.dbc`, que precisam ser processados antes de serem utilizados para análise. Este projeto automatiza esse processo em três etapas:
 
 1. **Baixa os arquivos `.dbc` do FTP do DATASUS.**
 2. **Converte os arquivos `.dbc` para `.csv` utilizando R.**
