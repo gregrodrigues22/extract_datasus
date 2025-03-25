@@ -1,4 +1,4 @@
-# 📥 Extract Datasus - Aquisição e Processamento de Dados CNES
+# 📥 Extract Datasus - Aquisição e Processamento de Dados DataSUS
 
 Este repositório contém um conjunto de scripts para **baixar, converter e compilar dados do DataSUS a partir do FTP do DATASUS**.
 
